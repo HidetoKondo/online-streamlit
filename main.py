@@ -35,36 +35,6 @@ expander3 = st.expander('問い合わせ3')
 expander3.write('問い合わせ3の回答')
 
 
-#text = st.text_input('あなたの趣味を教えてください。')
-#'あなたの趣味は：', text, 'です。'
-
-#condition = st.slider('あなたの今の調子は?',0,100,50)
-#'コンディション：', condition
-
-#if st.checkbox('Show Image'):
-#  img = Image.open('sample.png')
-#  st.image(img, caption='bag', use_column_width=True)
-
-#option = st.selectbox(
-#    'あなたの好きな数字を教えてください。',
-#    list(range(1,11))
-#)
-
-#'あなたの好きな数字は：', option, 'です。'
-
-# df = pd.DataFrame({
-#    '1列目': [1, 2, 3, 4],
-#    '2列目': [10, 20, 30, 40]
-# })
-
-#df = pd.DataFrame(
-#    np.random.rand(100, 2)/[50, 50] + [35.69, 139.70],
-#    columns=['lat', 'lon']
-#)
-
-# st.table(df.style.highlight_max(axis=0))
-#st.map(df)
-
 """
 # 章
 ## 節
