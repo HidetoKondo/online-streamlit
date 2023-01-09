@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import time as te
 from PIL import  Image
-from streamlit_metrics import metric, metric_row
+#from streamlit_metrics import metric, metric_row
 
 
 st.title('Streamlit 超入門')
